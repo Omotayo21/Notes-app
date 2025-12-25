@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "Pomodoro Timer",
-    "slug": "pomodoro-timer",
+    "name": "Notes ",
+    "slug": "notes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "pomodorotimer",
-    "userInterfaceStyle": "dark",
+    "scheme": "notes",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/images/icon.png",
@@ -15,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.rahman.pomodoro"
+      "bundleIdentifier": "com.rahman.notes"
     },
     "android": {
       "adaptiveIcon": {
@@ -24,7 +23,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.rahman.pomodoro",
+      "package": "com.rahman.notes",
       "permissions": ["NOTIFICATIONS"]
     },
     "web": {
